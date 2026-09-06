@@ -5,10 +5,18 @@
 - The NMOS channel width was fixated at 1.2 um where the PMOS channel width is given by the multiplication of this value and the aftermention ratio
 - The supply voltage remained constant at 1.2 V
 
+
+expressions -> math expressions
+cd_ramp_a.csv -> critically damped gain 
+cd_ramp_a.csv -> critically damped gain bandwidth
 graphs.ipynb -> graphical design
-mosfet_vdd_1.2v_w_1.2um_l_60nm.csv -> transistor parameters length 60 nm
-mosfet_vdd_1.2v_w_1.2um_l_90nm.csv -> transistor parameters length 90 nm
 mosfet_vdd_1.2v_w_1.2um_l_120nm.csv -> transistor parameters length 120 nm
 mosfet_vdd_1.2v_w_1.2um_l_240nm.csv -> transistor parameters length 240 nm
 mosfet_vdd_1.2v_w_1.2um_l_300nm.csv -> transistor parameters length 300 nm
 mosfet_vdd_1.2v_w_1.2um_l_600nm.csv -> transistor parameters length 600 nm
+mosfet_vdd_1.2v_w_1.2um_l_60nm.csv -> transistor parameters length 60 nm
+mosfet_vdd_1.2v_w_1.2um_l_90nm.csv -> transistor parameters length 90 nm
+
+
+
+
