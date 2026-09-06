@@ -6,10 +6,11 @@
 - The supply voltage remained constant at 1.2 V
 
 
-expressions -> math expressions
+expressions -> math expressions (Maxima)
 cd_ramp_a.csv -> critically damped gain 
 cd_ramp_a.csv -> critically damped gain bandwidth
-graphs.ipynb -> graphical design
+graphs.ipynb -> graphical design (Jupiter Notebook)
+graphs.py -> graphical design (Python)
 mosfet_vdd_1.2v_w_1.2um_l_120nm.csv -> transistor parameters length 120 nm
 mosfet_vdd_1.2v_w_1.2um_l_240nm.csv -> transistor parameters length 240 nm
 mosfet_vdd_1.2v_w_1.2um_l_300nm.csv -> transistor parameters length 300 nm
